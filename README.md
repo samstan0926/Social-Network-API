@@ -1,6 +1,6 @@
 # Social Network Api
   ## Description
-  Send requests via insomnia to use a social API that allows you to create and delete new users, add friends, post thoughts and reactions.
+  Send requests via insomnia to use a social API that allows you to create and delete new users, add friends, post thoughts and reactions. Walkthrough Video: https://drive.google.com/file/d/1ccAPDkpB6DniU728TSlbsRCGw56aBxDs/view?usp=sharing
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
