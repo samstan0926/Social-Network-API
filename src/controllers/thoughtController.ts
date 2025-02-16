@@ -37,11 +37,7 @@ export const getThoughtById = async (req: Request, res: Response) => {
     }
 };
 
-/**
- * POST Student /students
- * @param object student
- * @returns a single Student object
-*/
+
 
 export const createThought = async (req: Request, res: Response) => {
     try {
